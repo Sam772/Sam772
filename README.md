@@ -11,4 +11,4 @@ Welcome to my Github profile.
 ---
 
 ![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
-![Random's Most Used Languages](https://github-readme-stats.app/api/top-langs/?username=Sam772&show_icons=true&theme=radical)
+![Random's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam772&show_icons=true&theme=radical)
