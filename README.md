@@ -1,6 +1,6 @@
 ### Hello
 Welcome to my Github profile.
-
+![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
 ---
 
 ### What I'm learning and using:
@@ -16,7 +16,3 @@ Welcome to my Github profile.
 ![C#](https://img.shields.io/badge/-Csharp-000000?style=for-the-badge&logo=csharp)
 ![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity)
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-000000?style=for-the-badge&logo=visualstudiocode)
-
----
-
-![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
