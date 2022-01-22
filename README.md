@@ -1,4 +1,4 @@
-### Hello, welcome to my Github profile.
+### Hello, welcome to my github profile.
 ---
 ![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
 ---
