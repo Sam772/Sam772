@@ -2,7 +2,7 @@
 ---
 ![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
 ---
-I'm a 19 year old university student currently studying Computer Science at Aston University. If you wish to contact me here's my [LinkedIn](https://www.linkedin.com/in/samir-shahid-44737b222/).
+I'm a 20 year old university student currently studying Computer Science at Aston University. If you wish to contact me here's my [LinkedIn](https://www.linkedin.com/in/samir-shahid-44737b222/).
 
 ### What I'm learning and using:
 
