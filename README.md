@@ -1,10 +1,16 @@
-### Hello, welcome to my github profile.
----
-![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
----
-I'm a 20 year old university student currently studying Computer Science at Aston University. If you wish to contact me here's my [LinkedIn](https://www.linkedin.com/in/samir-shahid-44737b222/).
+### Hi, I'm Samir.
 
-### What I'm learning and using:
+---
+
+I'm a 20 year old university student currently studying Computer Science at Aston University. I enjoy developing my programming skills and creating new projects which I work on here often.
+
+You can check out the projects I've made throughout my journey on my [Portfolio](https://sam772.github.io/#/projects).
+
+If you wish, you can contact me on [LinkedIn](https://www.linkedin.com/in/samir-shahid-44737b222/) or at sssam.8390@gmail.com.
+
+![Random's Github Stats](https://github-readme-stats.vercel.app/api?username=Sam772&show_icons=true&theme=radical)
+
+### What Technologies I've been using:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
