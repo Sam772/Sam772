@@ -2,7 +2,7 @@
 
 ---
 
-I'm a 20 year old university student currently studying Computer Science at Aston University. I enjoy developing my programming skills and creating new projects which I work on here often.
+I'm a 21 year old university student studying Computer Science at Aston University. I enjoy developing my programming skills and creating new projects which I work on here often.
 
 You can check out the projects I've made throughout my journey on my [Portfolio](https://sam772.github.io/#/projects).
 
